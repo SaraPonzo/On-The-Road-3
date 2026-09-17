@@ -1,0 +1,17 @@
+{
+  "name": "Scozia on the road",
+  "short_name": "Scozia",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#17324E",
+  "theme_color": "#17324E",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
